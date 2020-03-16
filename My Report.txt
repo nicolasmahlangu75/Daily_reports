@@ -97,7 +97,42 @@ And we got to share some ideas on the functionalities of our system. Since we di
 	I had a working page, and was left with connecting it to the database.		
 
 
+9 MARCH 2020
 
-6 MARCH 2020
-  
+	
+	I managed to connect the front-end to the database. And also got to enhance the front-end part of our registration page, and also got to do our index(landing page).
+	
+
+10 MARCH 2020
+
+	
+	We met for our daily SCRUM meetings, and agreed to do a form of reseach regarding our system. 
+	We delegated two teams to go conduct the research in specific departments. 
+
+
+11 MARCH 2020
+
+
+	We finally got the information we were looking for, and also got to allocate tasks to each and every member in our team. I was responsible for the registration form, database, as well as the index page.
+
+
+12 MARCH 2020
+
+
+	I managed to push 60% of my work, regarding the tasks i was given.
+
+
+13 MARCH 2020
+
+	
+	  
+
+
+
+
+
+
+
+
+
 	I finally got to make some progress regarding the connection between the the front-end,back-end, and the database.	
